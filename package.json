@@ -1,0 +1,30 @@
+{
+  "name": "markdowneditor",
+  "version": "1.0.0",
+  "description": "Realtime Markdown Viewer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jiteshjha/Markdown-Editor.git"
+  },
+  "keywords": [
+    "markdown",
+    "realtime",
+    "sharejs"
+  ],
+  "author": "Jitesh Kumar Jha",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jiteshjha/Markdown-Editor/issues"
+  },
+  "homepage": "https://github.com/jiteshjha/Markdown-Editor#readme",
+  "dependencies": {
+    "ejs": "^2.3.4",
+    "express": "^4.13.3",
+    "redis": "^2.1.0",
+    "share": "^0.6.3"
+  }
+}
